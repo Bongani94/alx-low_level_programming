@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main - print if the number is positive, zero, or negative
+ * main - prints all single digit numbers of base 10 starting from 0,
+ *        only using putchar and without char variables.
  *
- * Description: using the main function
- * this program prints "Programming is positive, zero, or negative
- * Return: 0
+ * Return: Always 0.
  */
 int main(void)
 {
