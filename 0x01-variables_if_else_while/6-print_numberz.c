@@ -11,7 +11,10 @@ int main(void)
 int i;
 for (i = 0; i < 10; i++)
 {
-	putchar("%i", i);
+	if("%i", i);
+{
+	putchar(ch);
+}
 }
 putchar("\n");
 return (0);
