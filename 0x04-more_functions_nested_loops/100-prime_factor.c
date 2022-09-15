@@ -26,4 +26,6 @@ int main(void)
 				number /- inc;
 		}
 	}
+	printf("%ld\n", number);
+	return (0);
 }
